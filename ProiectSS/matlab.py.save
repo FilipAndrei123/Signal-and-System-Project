@@ -1,0 +1,27 @@
+import RPi.GPIO as GPIO
+
+class matlab(object):
+	pozaGrup=''
+	pozaGrupAN=''
+	students = []
+
+	def __init__(self):
+		students.append(student(/home/pi/Desktop/Proiect_Octave/B_AlesutanCodrutaMaria.wav,A2)Serie_suprapunere_Imagini_Sablon_Suprapuse,,,))
+		students.append(student(/home/pi/Desktop/Proiect_Octave/B_CuciorvaCosminDumtru.wav,,,,))
+		students.append(student(/home/pi/Desktop/Proiect_Octave/B_DarieDragosMihai.wav,,,,))
+		students.append(student(/home/pi/Desktop/Proiect_Octave/B_FilipAndrei.wav,,,,))
+		students.append(student(/home/pi/Desktop/Proiect_Octave/B_UjicaAlexandru.wav,,,,))
+
+	@staticmethod
+	
+class sutudent(object)
+	sunet = ''
+	sablon = ''
+	poza = ''
+	grafic = ''
+
+	def __init__(self,sunet,sablon,poza,grafic):
+		self.sunet = sunet
+		self.sablon = sablon
+		self.poza = poza
+		self.grafic = grafic

@@ -1,0 +1,18 @@
+import numpy as np
+from scipy.fftpack import fft,ifft
+import matplotlib.pyplot as plt
+
+class fourierShapeRecognition(object):
+        @staticmethod
+        def getShape(listOfPoints):
+                fftCoef = fft(listOfPoints)
+		plt.figure(1)
+		plt.plot(listOfPoints)
+
+		yf[:N//2]
+		d = ifft(fftCoef)
+
+		plt.figure(2)
+		plt.plot(d)
+		plt.show()
+
