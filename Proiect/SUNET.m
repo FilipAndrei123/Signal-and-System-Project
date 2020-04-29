@@ -1,0 +1,18 @@
+[y,Fs] = audioread('B_AlesutanCodrutaMaria.m4a');
+sound(y,Fs);
+pause(5);
+[y,Fs] = audioread('B_FilipAndrei.m4a');
+sound(y,Fs);
+pause(5);
+[y,Fs] = audioread('B_CuciorvaCosmin.m4a');
+sound(y,Fs);
+pause(5);
+[y,Fs] = audioread('B_DarieDragosMihai.m4a');
+sound(y,Fs);
+pause(5);
+[y,Fs] = audioread('B_UjicaAlexandru.m4a');
+sound(y,Fs);
+pause(5);
+[y,Fs] = audioread('B_All.m4a');
+sound(y,Fs);
+pause(5);
